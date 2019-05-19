@@ -1,2 +1,3 @@
-NPM	: 1706106766
-Nama	: Hesty Thamara Marbun
+NPM		: 1706106766
+Nama		: Hesty Thamara Marbun
+Angkatan   	: 2017
